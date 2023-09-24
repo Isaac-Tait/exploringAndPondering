@@ -86,10 +86,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Essays',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Long form brain dumps',
                 to: '/docs/intro',
               },
             ],
@@ -115,8 +115,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Novel',
+                href: 'https://wormwoodsaga.com',
               },
             ],
           },
