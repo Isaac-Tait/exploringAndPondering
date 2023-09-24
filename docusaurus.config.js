@@ -72,12 +72,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Essays',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://wormwoodsaga.com',
+            label: 'Novel',
             position: 'right',
           },
         ],
@@ -99,11 +99,11 @@ const config = {
             items: [
               {
                 label: 'Threads',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://www.threads.net/@stickyfingers1415',
               },
               {
                 label: 'Instagram',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://www.instagram.com/stickyfingers1415/',
               },
             ],
           },
