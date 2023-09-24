@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `©${new Date().getFullYear()} Built with ❤️ by mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);`,
+        copyright: `©${new Date().getFullYear()} Built with ❤️ by <a href='https://mountaintopcoding.dev' target='__blank'>mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a>`,
       },
       prism: {
         theme: lightCodeTheme,
