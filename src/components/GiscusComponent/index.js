@@ -19,7 +19,6 @@ export default function GiscusComponent() {
       inputPosition='bottom'
       theme={colorMode}
       lang='en'
-      loading='lazy'
       crossorigin='anonymous'
       async
     />
