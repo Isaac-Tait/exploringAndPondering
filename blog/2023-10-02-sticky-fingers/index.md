@@ -7,6 +7,8 @@ enableComments: true
 
 If you are wondering what is up with my handle Sticky Fingers (on Instagram and Threads it is stickyFingers1415) let me explain.
 
+<!--truncate-->
+
 A while back I had decided that I wanted to put my journey out of the white, evangelical, fundamentalist, home-schooled, calvinist, christian upbringing that followed me through basically my entire adulthood until 2020. It seems there is a lot of content out about people divorcing themselves from what they used to be. Oftentimes this separation causes a lot of turmoil, anxiety, and loneliness. The fact that many who find themselves in this camp also come from backgrounds of abuse. My story is sadly the same as many who are deconstructing and disentangling their faith.
 
 However, I wanted my platform to focus less on where I have been and more on where I am going. I read this in the Dalai Lama's book "The Art of Happiness" and I think it describes quite well what my aim was in launching my own deconstructing/disentangling blog.
