@@ -32,8 +32,7 @@ const FeatureList = [
     description: (
       <>
         Join me as I explore the wide world of spirituality, religion,
-        and even atheism to try and make sense of our world (I know
-        it's not very Buddhist of me)...
+        and even atheism to try and search for better ways forward...
       </>
     ),
   },
