@@ -15,14 +15,13 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Sticky Fingers?',
+    title: 'Join me...',
     Svg: require('@site/static/img/mountainSun.svg').default,
     description: (
       <>
-        Why did I adopt the slogan "Sticky Fingers"? Because over the
-        last year I have touched many faith (and non-faith) traditions
-        and adopted fragments into my own understandings and
-        explanations...
+        Exploring and Pondering is a safe place for me to hold space
+        for the variety of ideas rattling around in my brain. Have
+        something to say? I would love to hear it...
       </>
     ),
   },
