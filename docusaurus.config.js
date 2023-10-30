@@ -46,8 +46,15 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          readingTime: ({
+            content,
+            frontMatter,
+            defaultReadingTime,
+          }) =>
+            defaultReadingTime({
+              content,
+              options: { wordsPerMinute: 300 },
+            }),
           editUrl:
             'https://github.com/Isaac-Tait/exploringAndPondering/blob/main/',
         },
