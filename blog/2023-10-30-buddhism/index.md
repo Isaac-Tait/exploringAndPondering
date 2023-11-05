@@ -5,7 +5,7 @@ authors: [tait]
 enableComments: true
 ---
 
-I rarely censor my writing when published in blog form. Other than glaring spelling or typo mistakes I leave it be. Early [this week I wrote an essay](/docs/Happiness.md) (okay, it was more of a book review). I have always thought that it would be a good idea to write a book review after reading a book as it really helps the content sink in and grab a hold in my mind.
+I rarely censor my writing when published in blog form. Other than glaring spelling or typo mistakes I leave it be. Early [this week I wrote an essay](/docs/Happiness) (okay, it was more of a book review). I have always thought that it would be a good idea to write a book review after reading a book as it really helps the content sink in and grab a hold in my mind.
 
 I have been down in the dumps a lot this week. I got some bad news on the activism front I have been putting a lot of energy into these past few months. We ended up losing a very powerful ally as they walked back their previous enthusiasm and basically jumped ship. Then the next day I walk into my favorite vegan restaurant to discover that they completely revamped their menu and now the have only two plant based options but dozens of chicken, foi gras, and steak tartare recipes. The betrayal was a hard pill to swallow. Under normal circumstances it would have not hit me so hard but I was already in the dumps with the whole activism setback and this was the straw that broke the camels back (poor camel 😢).
 
@@ -15,6 +15,6 @@ This week I have been giving a lot of thought to the Buddhist idea that everyone
 
 I really love this idea in Buddhism. It is simple, it is straightforward, **AND** it feels so attainable. I love Buddhism.
 
-So, looping back to the beginning when I said I do not censor myself. I was referring to [my last post](/blog/2023-10-26-suicide/index) I started this blog post thinking that I should try and put a positive spin on my last one. However, after re-reading I am okay with the rawness and the honesty. Sure it may be a harsh way to memorialize a sad anniversary but it was a shitty day and I was angry - I am still angry. Because of this anger I recognize that I need to exercise some compassion for those I am angry at.
+So, looping back to the beginning when I said I do not censor myself. I was referring to [my last post](/blog/2023-10-26-suicide/index.md) I started this blog post thinking that I should try and put a positive spin on my last one. However, after re-reading I am okay with the rawness and the honesty. Sure it may be a harsh way to memorialize a sad anniversary but it was a shitty day and I was angry - I am still angry. Because of this anger I recognize that I need to exercise some compassion for those I am angry at.
 
 Lastly, I think it is most important to see that everyone has a lot of delusions and we could all use a little more wisdom in pretty much every area of our life.
