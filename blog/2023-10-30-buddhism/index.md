@@ -15,6 +15,6 @@ This week I have been giving a lot of thought to the Buddhist idea that everyone
 
 I really love this idea in Buddhism. It is simple, it is straightforward, **AND** it feels so attainable. I love Buddhism.
 
-So, looping back to the beginning when I said I do not censor myself. I was referring to [my last post](/blog/2023-10-26-suicide/index.md) I started this blog post thinking that I should try and put a positive spin on my last one. However, after re-reading I am okay with the rawness and the honesty. Sure it may be a harsh way to memorialize a sad anniversary but it was a shitty day and I was angry - I am still angry. Because of this anger I recognize that I need to exercise some compassion for those I am angry at.
+So, looping back to the beginning when I said I do not censor myself. I was referring to [my last post](/blog/2023-10-26-suicide/index) I started this blog post thinking that I should try and put a positive spin on my last one. However, after re-reading I am okay with the rawness and the honesty. Sure it may be a harsh way to memorialize a sad anniversary but it was a shitty day and I was angry - I am still angry. Because of this anger I recognize that I need to exercise some compassion for those I am angry at.
 
 Lastly, I think it is most important to see that everyone has a lot of delusions and we could all use a little more wisdom in pretty much every area of our life.
