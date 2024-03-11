@@ -1,6 +1,6 @@
 {
-  "name": "sticky-fingers",
-  "version": "0.0.0",
+  "name": "exploring_and_pondering",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
