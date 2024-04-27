@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 ### Native: Identity, Belonging, and Rediscovering God by Kaitlin B. Curtice
