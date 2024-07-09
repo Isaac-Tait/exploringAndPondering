@@ -6,7 +6,7 @@ tags: [musings]
 enableComments: true
 ---
 
-While digging through the archives on my computer (I was looking for a letter I wrote to publish in the ["Docs"](/docs/Native.md) section of this site) I stumbled across an exchange I had back in January of 2020. The exchange stemmed from my sister-in-law sharing [this article](https://johnpavlovitz.com/2016/10/21/the-kind-of-christian-i-refuse-to-be/) (on Instagram I think).
+While digging through the archives on my computer (I was looking for a letter I wrote to publish in the ["Docs"](/docs/native) section of this site) I stumbled across an exchange I had back in January of 2020. The exchange stemmed from my sister-in-law sharing [this article](https://johnpavlovitz.com/2016/10/21/the-kind-of-christian-i-refuse-to-be/) (on Instagram I think).
 
 Now a bit of background: back in 2020 I was at the pinnacle of my right wing, christian nationalist, alt-right, pro-Trump idealogies... So, the exchange is but a small glimpse into the mind of a Republican Calvinist.
 
