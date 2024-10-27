@@ -86,6 +86,11 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
+            to: 'https://reddit.com',
+            label: '🏳️‍🌈',
+            position: 'right',
+          },
+          {
             href: 'https://wormwoodsaga.com',
             label: 'Novel',
             position: 'right',

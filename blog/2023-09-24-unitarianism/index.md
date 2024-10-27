@@ -6,7 +6,7 @@ tags: [theology]
 enableComments: true
 ---
 
-Phew, what a week the last one was. Busy busy busy - and not in the traditional sense of lots of work and self assigned tasks meant to make oneself feel useful or significant. Rather it was a week filled with confronting the messes I have kept buried for years in the vain hope that by ignoring them they would go away.
+Phew, what a week the last one was. <!-- truncate --> Busy busy busy - and not in the traditional sense of lots of work and self assigned tasks meant to make oneself feel useful or significant. Rather it was a week filled with confronting the messes I have kept buried for years in the vain hope that by ignoring them they would go away.
 
 <!--truncate-->
 

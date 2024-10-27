@@ -5,7 +5,7 @@ authors: [tait]
 enableComments: true
 ---
 
-I rarely censor my writing when published in blog form. Other than glaring spelling or typo mistakes I leave it be. Early [this week I wrote an essay](/docs/Happiness) (okay, it was more of a book review). I have always thought that it would be a good idea to write a book review after reading a book as it really helps the content sink in and grab a hold in my mind.
+I rarely censor my writing when published in blog form. <!-- truncate --> Other than glaring spelling or typo mistakes I leave it be. Early [this week I wrote an essay](/docs/Happiness) (okay, it was more of a book review). I have always thought that it would be a good idea to write a book review after reading a book as it really helps the content sink in and grab a hold in my mind.
 
 I have been down in the dumps a lot this week. I got some bad news on the activism front I have been putting a lot of energy into these past few months. We ended up losing a very powerful ally as they walked back their previous enthusiasm and basically jumped ship. Then the next day I walk into my favorite vegan restaurant to discover that they completely revamped their menu and now the have only two plant based options but dozens of chicken, foi gras, and steak tartare recipes. The betrayal was a hard pill to swallow. Under normal circumstances it would have not hit me so hard but I was already in the dumps with the whole activism setback and this was the straw that broke the camels back (poor camel 😢).
 

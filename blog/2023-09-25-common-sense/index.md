@@ -7,7 +7,7 @@ enableComments: true
 
 ### I wrote this back in March of 2023
 
-For my fortieth birthday (which will be here in five months to the day) I want to have a six pack. I
+For my fortieth birthday (which will be here in five months to the day) I want to have a six pack. <!-- truncate --> I
 have not had a six pack since I was in my early 20's and a motivated Non-Commissioned Officer in the
 US Marine Corps. Now I am a dad who spends too much time in front of a computer and enjoys maybe a
 little too much wine or strong kombucha in the evenings... So, I told my wife of my goal and she

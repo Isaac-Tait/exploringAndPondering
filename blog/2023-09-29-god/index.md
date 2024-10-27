@@ -5,7 +5,7 @@ authors: [tait]
 enableComments: true
 ---
 
-I became a christian when I was six. My parents were christians and so were my grandparents. So, it felt only natural that I become one too. I was the oldest of six kids. When I was five my mother started homeschooling us. I was home-schooled until I turned sixteen and then I started going to college. When I started attending college it was a small christian community college. Basically my entire formative years before becoming an adult were immersed in fundamentalist evangelical calvinist christian teachings. In short - I was brain washed.
+I became a christian when I was six. <!-- truncate --> My parents were christians and so were my grandparents. So, it felt only natural that I become one too. I was the oldest of six kids. When I was five my mother started homeschooling us. I was home-schooled until I turned sixteen and then I started going to college. When I started attending college it was a small christian community college. Basically my entire formative years before becoming an adult were immersed in fundamentalist evangelical calvinist christian teachings. In short - I was brain washed.
 
 <!--truncate-->
 

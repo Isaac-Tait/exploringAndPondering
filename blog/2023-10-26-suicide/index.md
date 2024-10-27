@@ -5,7 +5,7 @@ authors: [tait]
 enableComments: true
 ---
 
-Three years ago today my mother died by suicide. She climbed into the bath tub with a gun and ended her life. Her death and the ensuing carnage mostly wrought by "christians" afterwards sent me on a path of deconstruction and disentangling my life from the brainwashing I had undergone for decades within the church.
+Three years ago today my mother died by suicide. <!-- truncate --> She climbed into the bath tub with a gun and ended her life. Her death and the ensuing carnage mostly wrought by "christians" afterwards sent me on a path of deconstruction and disentangling my life from the brainwashing I had undergone for decades within the church.
 
 <!--truncate-->
 
