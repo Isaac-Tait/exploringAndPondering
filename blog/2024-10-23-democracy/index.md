@@ -6,7 +6,7 @@ tags: [politics]
 enableComments: true
 ---
 
-Like many other Americans, I have watched in horror the political landscape unfold in this country as we seek to elect a new president. <!-- truncate --> How is it possible that Trump is polling as well as he is? How is it possible that so many millions of Americans could support a candidate whose entire platform is based on hate, intolerance, xenophobia, conspiracy theories, and anger? To make matters even more incomprehensible a vast majority of these people call themselves christians! These so called christians who are obsessed with guns, committing violence against their neighbors, and who want to evict millions upon millions of foreigners.
+Like many other Americans, I have watched in horror the political landscape unfold in this country as we seek to elect a new president. How is it possible that Trump is polling as well as he is? How is it possible that so many millions of Americans could support a candidate whose entire platform is based on hate, intolerance, xenophobia, conspiracy theories, and anger? To make matters even more incomprehensible a vast majority of these people call themselves christians! These so called christians who are obsessed with guns, committing violence against their neighbors, and who want to evict millions upon millions of foreigners.
 
 I read somewhere recently that the number one cause of atheism in the world today are christians. All it takes is a cursory glance at christian's behavior in the United States today and one can easily see that that is certainly a valid argument.
 

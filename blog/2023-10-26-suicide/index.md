@@ -7,8 +7,6 @@ enableComments: true
 
 Three years ago today my mother died by suicide. <!-- truncate --> She climbed into the bath tub with a gun and ended her life. Her death and the ensuing carnage mostly wrought by "christians" afterwards sent me on a path of deconstruction and disentangling my life from the brainwashing I had undergone for decades within the church.
 
-<!--truncate-->
-
 In early 2020 I began to become [more and more concerned](/docs/Covid) about so called "christians" response to the pandemic. Then on October 26th I got the call that my mother was no longer alive. The year that I thought could not get any worse, in an instant, got a whole hell of a lot worse.
 
 So, what am I going to do on the anniversary of my mother's death? I could share a funny story about her, or maybe a fond memory. While I do have those things to share I am still raw and processing through my parents involvement in cults growing up. I don't really feel like trying to put a positive spin on a shitty story... My mother struggled with mental illness for as long as I can remember. I remember her locking us outside all day and feeding us lunch through a window. I remember her laying in the bathtub all day and not coming out. I remember her trying to kill herself twice when I was 16. I remember the fights my mom and dad had. I remember finding out about the multiple affairs my dad had over a period of thirteen years. I remember my mom telling me that she would not care if I died. I remember getting dozens and dozens of spanks a week. Because of this I learned to repress my emotions. They weren't safe and only got me in trouble. I remember thinking that I was ugly and that there was no way a G_d could make someone as ugly as me and be a loving being.

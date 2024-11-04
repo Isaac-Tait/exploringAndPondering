@@ -7,8 +7,6 @@ enableComments: true
 
 I became a christian when I was six. <!-- truncate --> My parents were christians and so were my grandparents. So, it felt only natural that I become one too. I was the oldest of six kids. When I was five my mother started homeschooling us. I was home-schooled until I turned sixteen and then I started going to college. When I started attending college it was a small christian community college. Basically my entire formative years before becoming an adult were immersed in fundamentalist evangelical calvinist christian teachings. In short - I was brain washed.
 
-<!--truncate-->
-
 In 2016 I voted for Trump. Why? Because I believed Hillary was going to take away my religious freedoms. That if she became President Russia would start WWIII. Providing healthcare for the poor and needy was going to bankrupt our nation. That the Paris Climate Accord was just a sneaky way of building a global socialist society by distributing wealth. And that Obama had increased our national debt by so much that our nation's financial institutions were on the verge of collapse. In other words I was parroting what I heard family, friends, and church members saying. Sadly these people were all victims of the same way of thinking that I had considered gospel truth, air tight, black and white. It was fundamentalist evangelical calvinist christian white supremacist ways of thinking on full display.
 
 Then Covid happened - and then my [mother committed suicide](https://macadamgrinding.com/posts/year-of-the-ox/).
