@@ -15,6 +15,8 @@ suggested that we build a weight lifting room in our garage. However, to make ro
 clear out the shelving in our garage. We had several contractors out to give us quotes on finishing our attic but the
 price tag was outrageous.
 
+<!--truncate-->
+
 So, we shifted to the idea of purchasing a shed for our back yard. Something around 14'x20' would be
 big enough we thought. The price was better than a full make over of our attic too. The shed builder told us
 though that we would need a permit before they could start. I contacted our city to see about
