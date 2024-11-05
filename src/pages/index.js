@@ -27,8 +27,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description='Exvangelical buddhist universalist just musing about life'
+      title={`Welcome to ${siteConfig.title}`}
+      description='A space for an Agnostic Buddhist Exvangelical who is exploring and pondering the meaning of life...'
     >
       <HomepageHeader />
       <main>
