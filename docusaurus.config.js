@@ -86,7 +86,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            to: 'https://www.reddit.com/r/bisexual/',
+            to: 'https://www.reddit.com/r/lgbt/',
             label: '🏳️‍🌈',
             position: 'right',
           },
