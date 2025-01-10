@@ -92,7 +92,7 @@ const config = {
           },
           {
             href: 'https://wormwoodsaga.com',
-            label: 'Novel',
+            label: 'My Novel',
             position: 'right',
           },
         ],
@@ -140,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `©2023 - ${new Date().getFullYear()} Built with ❤️ by <a href='https://mountaintopcoding.dev' target='__blank'>mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a>`,
+        copyright: `©2023 - ${new Date().getFullYear()} Built with 🏳️‍🌈 by <a href='https://mountaintopcoding.dev' target='__blank'>mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a>`,
       },
       prism: {
         theme: lightTheme,
